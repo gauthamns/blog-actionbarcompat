@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CompatDrawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    
+    <string-array name="drawer_array">
+        <item>app_name</item>
+        <item>action_settings</item>
+        <item>hello_world</item>
+    </string-array>
+
+</resources>
